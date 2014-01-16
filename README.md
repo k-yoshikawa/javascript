@@ -13,3 +13,4 @@ jqueryとかjavascriptのオリジナルもしくは改編したもの入れる�
 
 ## 内容物
 * acordion
+** acordion-type_triggerfullwidth
